@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvined0gs
+- 👋 Hi, I’m @sagalytics
 - 👀 I’m interested in anime, manga, video games, arts, and tech.
 - 🌱 I’m currently learning front-end web development and considering UX/UI design.
 - 😄 Pronouns: they/them
